@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Nahuel",
+            "apellidos": "Paz Berrondo",
+            "email": "naw@pro.com",
+            "años": 18
+        },
+        {
+            "id": 2,
+            "nombre": "Paula",
+            "apellidos": "Zerda",
+            "email": "pau@noob.com",
+            "años": 20
+        }
+    ]
+}
